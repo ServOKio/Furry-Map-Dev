@@ -1,7 +1,7 @@
 # Furry Map - Dev
-If you want to help in creating Furry Map - Welcome !
+If you want to help in creating Furry Map - Welcome ! Here are the main modules that you can help us with.
+You can always find out the details of what exactly we are doing right now on the [project page](https://github.com/users/ServOKio/projects/5).
 
-Here are the main modules that you can help us with.
 ## lang.json & app.js
 This is a translation files. First you need to find out your language code in ISO 639-1. You can just press the `F12` key, paste
 ```js
