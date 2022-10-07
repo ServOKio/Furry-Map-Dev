@@ -1,3 +1,14 @@
+const replace = {
+  'ru-RU': 'ru',
+  'en-US': 'en',
+  'fr-FR': 'fr',
+  'de-AT': 'de',
+  'de-CH': 'de',
+  'de-DE': 'de',
+  'de-LI': 'de',
+  'de-LU': 'de'
+}
+
 const defaultLang = {
   en: {
     start_title: 'Loading',
