@@ -2,8 +2,8 @@
 If you want to help in creating Furry Map - Welcome !
 
 Here are the main modules that you can help us with.
-## lang.json
-This is a translation file. First you need to find out your language code in ISO 639-1. You can just press the `F12` key, paste
+## lang.json & app.js
+This is a translation files. First you need to find out your language code in ISO 639-1. You can just press the `F12` key, paste
 ```js
 console.log(navigator.language+'/'+navigator.languages.join(',')); 
 ```
