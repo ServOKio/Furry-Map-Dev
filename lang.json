@@ -331,6 +331,11 @@
         "app_popup_delete_message": "Видалити повідомлення",
         "app_popup_reply": "Відповівши",
 
+        "app_settings_menu_account":"Обліковий запис",
+        "app_settings_menu_about": "Про себе",
+        "app_settings_menu_location":"Розташування",
+        "app_settings_menu_close":"Закрити",
+
         "app_settings_account_profile_title":"Профіль",
         "app_settings_account_profile_desc": "Перше, на що всі дивляться-ваш профіль",
         "app_settings_account_ual_title":"Подробиці",
@@ -512,6 +517,11 @@
         "app_popup_edit_message": "Изменить сообщение",
         "app_popup_delete_message": "Удалить сообщение",
         "app_popup_reply": "Ответить",
+
+        "app_settings_menu_account": "Учетная запись",
+        "app_settings_menu_about": "О себе",
+        "app_settings_menu_location": "Местоположение",
+        "app_settings_menu_close": "Закрыть",
 
         "app_settings_account_profile_title": "Профиль",
         "app_settings_account_profile_desc": "Первое, на что все смотрят - ваш профиль",
