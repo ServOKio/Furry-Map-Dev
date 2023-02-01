@@ -6,6 +6,7 @@
         "header_about": "About",
         "header_patreon": "Patreon",
         "header_discord": "Discord",
+        "header_telegram": "Telegram",
 
         "policy_switch_title": "Explain it in plain language ?",
         "policy_switch_desc": "We will try to explain all this legal stuff briefly and clearly",
@@ -30,9 +31,12 @@
         "start_email_exits": "It seems someone is already using this mail",
         "start_server_error": "Oops, it seems there was some kind of error on the server",
         "start_password_more": "This password is too short",
+        "start_invalid_token": "Invalid token. Try reload page",
         "start_welcome_title": "Welcome!",
         "start_welcome_desc": "Now you can use email and password to log in. Good luck!",
         "start_button_next": "Next",
+        "start_button_done": "Check",
+        "start_policy": "By creating an account, you automatically agree to our policy",
         "start_button_ok": "Okay",
 
         "login_stranger": "Hi stranger",
@@ -77,10 +81,14 @@
         "app_settings_block_snow_me_desc": "You can hide your marker if you want and no one will know where you are",
         "app_settings_block_market_style_title": "Marker Style",
         "app_settings_block_market_style_desc": "You can choose the shape of the marker that suits you best. Yes, not all styles are here, we all draw the rest",
+
         "app_settings_block_market_style_type_0": "Bull",
         "app_settings_block_market_style_type_1": "Rabbit",
         "app_settings_block_market_style_type_2": "Dog",
         "app_settings_block_market_style_type_3": "Bear",
+        "app_settings_block_market_style_type_4": "Wolf",
+        "app_settings_block_market_style_type_5": "Feline",
+        "app_settings_block_market_style_type_6": "Protogen",
 
         "app_settings_aeb_button_save": "Process",
         "app_settings_aeb_settings_circle_title": "Round preview",
@@ -132,6 +140,12 @@
         "status_desc_title": "The state of our system",
         "status_desc_description": "If something is wrong, you can always find out about it here",
 
+        "search_placeholder": "I want to find...",
+        "search_start": "Sort by",
+        "search_by_name": "Name",
+        "search_by_geolocation": "Geolocation",
+        "search_by_creation_date": "Сreation date",
+
         "app_popup_open_profile": "Profile",
         "app_geo_approximately": "Approximately",
         "app_geo_approximately_km": "km",
@@ -182,6 +196,8 @@
         "start_welcome_title": "Ласкаво просимо!",
         "start_welcome_desc": "Тепер ви можете використовувати пошту та пароль для входу. Удачі !",
         "start_button_next":"Далі",
+        "start_button_done": "Перевірити",
+        "start_policy": "Створюючи обліковий запис, ви автоматично погоджуєтеся з нашою політикою",
         "start_button_ok": "Ok",
 
         "ilc_title": "Я.Л.К.",
@@ -331,7 +347,11 @@
         "status_desc_title": "Статус нашої системи",
         "status_desc_description": "якщо щось не так ви завжди зможете дізнатися про це тут",
 
-        "app_admin_panel": "панель адміна",
+        "search_placeholder": "Я хочу знайти...",
+        "search_start": "Сортувати за",
+        "search_by_name":"Ім'я",
+        "search_by_geolocation":"Геолокація",
+        "search_by_creation_date":"Дата створення",
 
         "app_popup_open_profile": "Профіль",
         "app_geo_approximately":"Приблизно",
@@ -383,6 +403,8 @@
         "start_welcome_title": "Добро пожаловать!",
         "start_welcome_desc": "Теперь вы можете использовать почту и пароль для входа. Удачи !",
         "start_button_next": "Далее",
+        "start_button_done": "Проверить",
+        "start_policy": "Создавая учетную запись, вы автоматически соглашаетесь с нашей политикой",
         "start_button_ok": "Окай",
         
         "login_stranger": "Привет незнакомец",
@@ -444,6 +466,7 @@
         "app_settings_block_snow_me_desc": "Вы можете скрыть свой маркер, если хотите, и никто не узнает, где вы находитесь",
         "app_settings_block_market_style_title": "Стиль маркера",
         "app_settings_block_market_style_desc": "Вы можете выбрать форму маркера, которая подходит вам лучше всего. Да, здесь не все стили, мы все рисуем остальные",
+
         "app_settings_block_market_style_type_0": "Бык",
         "app_settings_block_market_style_type_1": "Кролик",
         "app_settings_block_market_style_type_2": "Собака",
@@ -482,7 +505,11 @@
         "status_desc_title": "Статус нашей системы",
         "status_desc_description": "Если что-то не так вы всегда сможете узнать об этом здесь",
 
-        "app_admin_panel": "Панель админа",
+        "search_placeholder": "Я хочу найти...",
+        "search_start": "Сортировать по",
+        "search_by_name": "Имя",
+        "search_by_geolocation": "Геолокация",
+        "search_by_creation_date": "Дата создания",
 
         "app_popup_open_profile": "Профиль",
         "app_geo_approximately": "Примерно",
@@ -534,6 +561,8 @@
         "start_welcome_title": "Bienvenue!",
         "start_welcome_desc": "Maintenant, vous pouvez utiliser l'email et le mot de passe pour vous connecter. Bonne chance!",
         "start_button_next": "Suivant",
+        "start_button_done": "Vérifier",
+        "start_policy": "En créant un compte, vous acceptez automatiquement notre politique",
         "start_button_ok": "D'accord",
 
         "login_stranger": "Bonjour étranger",
@@ -633,6 +662,12 @@
         "status_desc_title": "L'état de notre système",
         "status_desc_description": "Si quelque chose ne va pas, vous pouvez toujours le savoir ici",
 
+        "search_placeholder": "Je veux trouver...",
+        "search_start": "Trier par",
+        "search_by_name": "Nom",
+        "search_by_geolocation": "Géolocalisation",
+        "search_by_creation_date": "Date de création",
+
         "app_popup_open_profile": "Profil",
         "app_geo_approximately": "Environ",
         "app_geo_approximately_km": "km",
@@ -683,6 +718,8 @@
         "start_welcome_title": "Willkommen!",
         "start_welcome_desc": "Jetzt kannst du dich mit E-Mail und Passwort anmelden. Toi toi toi!",
         "start_button_next": "Weiter",
+        "start_button_done": "Überprüfen",
+        "start_policy": "Mit der Erstellung eines Kontos stimmen Sie automatisch unseren Richtlinien zu",
         "start_button_ok": "In Ordnung",
 
         "login_stranger": "Hallo Fremder",
@@ -782,6 +819,12 @@
         "status_desc_title": "Der Zustand unseres Systems",
         "status_desc_description": "Wenn etwas nicht stimmt, kannst du es immer hier herausfinden.",
 
+        "search_placeholder": "Ich möchte finden...",
+        "search_start": "Sortieren nach",
+        "search_by_name": "Nachname",
+        "search_by_geolocation": "Geolokalisierung",
+        "search_by_creation_date": "Erstellungsdatum",
+
         "app_popup_open_profile": "Profil",
         "app_geo_approximately": "Etwa",
         "app_geo_approximately_km": "Kilometer",
@@ -832,6 +875,8 @@
         "start_welcome_title": "Witamy!",
         "start_welcome_desc": "Teraz możesz zalogować się za pomocą adresu e-mail i hasła. Powodzenia!",
         "start_button_next": "Dalej",
+        "start_button_done": "Sprawdź",
+        "start_policy": "Tworząc konto, automatycznie zgadzasz się z naszą polityką",
         "start_button_ok": "Ok",
     
         "login_stranger": "Witaj podróżniku",
@@ -930,6 +975,12 @@
         "status_title": "Status",
         "status_desc_title": "Stan naszego systemu",
         "status_desc_description": "Jeśli coś jest nie tak, zawsze możesz się o tym dowiedzieć tutaj",
+
+        "search_placeholder": "chcę znaleźć...",
+        "search_start": "Sortuj według",
+        "search_by_name": "wyszukaj",
+        "search_by_geolocation": "Geolokalizacja",
+        "search_by_creation_date": "Data utworzenia",
     
         "app_popup_open_profile": "Profil",
         "app_geo_approximately": "Ok.",
