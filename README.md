@@ -4,6 +4,7 @@ You can always find out the details of what exactly we are doing right now on th
 
 ### Thx
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="16px"/> <b>firankaaa#8231</b> for for Polish translation</div>
+<div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pt.svg" width="16px"/> <b>@alfatoaster56</b> for for Portuguese translation</div>
 
 ## lang.json & app.js
 This is a translation files. First you need to find out your language code in ISO 639-1. You can just press the `F12` key, paste
