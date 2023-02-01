@@ -268,6 +268,9 @@
         "app_settings_block_market_style_type_1":"Кролик",
         "app_settings_block_market_style_type_2":"Собака",
         "app_settings_block_market_style_type_3":"Ведмідь",
+        "app_settings_block_market_style_type_4": "Вовк",
+        "app_settings_block_market_style_type_5": "Котячий",
+        "app_settings_block_market_style_type_6": "Протоген",
 
         "app_settings_aeb_button_save": "Обробити",
         "app_settings_aeb_settings_circle_title": "Кругле превью",
@@ -471,6 +474,9 @@
         "app_settings_block_market_style_type_1": "Кролик",
         "app_settings_block_market_style_type_2": "Собака",
         "app_settings_block_market_style_type_3": "Медведь",
+        "app_settings_block_market_style_type_4": "Волк",
+        "app_settings_block_market_style_type_5": "Кошачьи",
+        "app_settings_block_market_style_type_6": "Протоген",
 
         "app_settings_aeb_button_save": "Обработать",
         "app_settings_aeb_settings_circle_title": "Круглое превью",
@@ -611,6 +617,9 @@
         "app_settings_block_market_style_type_1":"Lapin",
         "app_settings_block_market_style_type_2": "Chien",
         "app_settings_block_market_style_type_3":"Ours",
+        "app_settings_block_market_style_type_4": "Loup",
+        "app_settings_block_market_style_type_5": "Félin",
+        "app_settings_block_market_style_type_6": "Protogène",
 
         "app_settings_aeb_button_save": "Processus",
         "app_settings_aeb_settings_circle_title": "Aperçu du tour",
@@ -768,6 +777,9 @@
         "app_settings_block_market_style_type_1": "Kaninchen",
         "app_settings_block_market_style_type_2": "Hund",
         "app_settings_block_market_style_type_3": "Bär",
+        "app_settings_block_market_style_type_4": "Wolf",
+        "app_settings_block_market_style_type_5": "Katzenartig",
+        "app_settings_block_market_style_type_6": "Protogen",
 
         "app_settings_aeb_button_save": "Verarbeiten",
         "app_settings_aeb_settings_circle_title": "Runde Vorschau",
@@ -925,6 +937,9 @@
         "app_settings_block_market_style_type_1": "Królik",
         "app_settings_block_market_style_type_2": "Pies",
         "app_settings_block_market_style_type_3": "Niedźwiedź",
+        "app_settings_block_market_style_type_4": "Wolf",
+        "app_settings_block_market_style_type_5": "Feline",
+        "app_settings_block_market_style_type_6": "Protogen",
     
         "app_settings_aeb_button_save":"Proces",
         "app_settings_aeb_settings_circle_title": "Tytuł okręgu", 
