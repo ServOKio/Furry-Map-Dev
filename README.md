@@ -1,4 +1,4 @@
-# Furry Map - Dev
+# Furry Map Dev
 If you want to help in creating Furry Map - Welcome ! Here are the main modules that you can help us with.
 You can always find out the details of what exactly we are doing right now on the [project page](https://github.com/users/ServOKio/projects/5).
 
