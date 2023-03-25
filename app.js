@@ -1,12 +1,15 @@
 const replace = {
-  'ru-RU': 'ru',
-  'en-US': 'en',
-  'fr-FR': 'fr',
-  'de-AT': 'de',
-  'de-CH': 'de',
-  'de-DE': 'de',
-  'de-LI': 'de',
-  'de-LU': 'de'
+    'ru-RU': 'ru',
+    'en-US': 'en',
+    'fr-FR': 'fr',
+    'de-AT': 'de',
+    'de-CH': 'de',
+    'de-DE': 'de',
+    'de-LI': 'de',
+    'de-LU': 'de',
+    'pl-PL': 'pl',
+    'pt-PT': 'pt',
+    'pt-BR': 'pt_br'
 }
 
 const defaultLang = {
@@ -20,8 +23,8 @@ const defaultLang = {
     server_down_title: 'The server replied that it was not ready to work',
     server_down_description: 'Please check later, if this is our mistake, we will fix it soon',
 
-    server_closed_title: 'Welcome to Furry Map',
-    server_closed_description: 'We believe in the power of the community and hope that you also believe in us and give us some more time to finish this project. Stay tuned',
+    server_closed_title: 'A little more and Furry Map will be here',
+    server_closed_description: 'At the moment we are already preparing the project for a public beta test and will try to do it as soon as possible\nDo you want more news ? We are waiting u in the discord !',
 
     server_limit_title: 'The server doesn\'t seem to be responding',
     server_limit_description: 'Try coming back later',
@@ -48,8 +51,8 @@ const defaultLang = {
     server_down_title: 'Упс, схоже, ми ще не готові',
     server_down_description: 'будь ласка, зайдіть пізніше, якщо це наша помилка, ми скоро її виправимо',
 
-    server_closed_title: 'Ласкаво просимо на Furry Map',
-    server_closed_description: 'Ми віримо з силу спільноти і сподіваємося що Ви так-же вірите в нас і дасте нам ще деякий час щоб закінчити цей проект. Залишайтеся з нами',
+    server_closed_title: 'Трохи більше і FurryMap буде тут',
+    server_closed_description: 'На даний момент ми вже готуємо проект до публічного бета-тесту і постараємося зробити це якомога швидше \nХотите більше новин ? Чекаємо в дискорді !',
 
     server_limit_title: 'здається, сервер не відповідає',
     server_limit_description: 'спробуйте зайти пізніше',
@@ -76,8 +79,8 @@ const defaultLang = {
     server_down_title: 'Упс, похоже, мы ещё не готовы',
     server_down_description: 'Пожалуйста, зайдите позже, если это наша ошибка, мы скоро ее исправим',
 
-    server_closed_title: 'Добро пожаловать на Furry Map',
-    server_closed_description: 'Мы верим в силу сообщества и надеемся что вы так-же верите в нас и дадите нам ещё некоторое время чтобы закончить этот проект. Оставайтесь с нами',
+    server_closed_title: 'Ещё немного и Furry Map будет здесь',
+    server_closed_description: 'На данный момент мы уже подготавливаем проект к публичному бета-тесту и постараемся сделать это как можно быстрее\nХотите больше новостей ? Ждём в дискорде !',
 
     server_limit_title: 'Кажется, сервер не отвечает',
     server_limit_description: 'Попробуйте зайти позже',
@@ -105,8 +108,8 @@ const defaultLang = {
     server_down_title: 'Oups, on dirait que nous ne sommes pas encore prêts',
     server_down_description: 'Veuillez revenir plus tard, si c\'est notre erreur, nous la corrigerons bientôt',
 
-    server_closed_title: 'Bienvenue sur Furry Map',
-    server_closed_description: 'Nous croyons avec la force de la communauté et espérons que vous croyez aussi en nous et nous donnerez un peu plus de temps pour terminer ce projet. Restez à l\'écoute',
+    server_closed_title: 'Un peu plus et FurryMap sera là',
+    server_closed_description: 'En ce moment, nous préparons le projet pour la bêta publique et nous allons essayer de le faire le plus rapidement possible\nVoulez-vous plus de nouvelles ? Nous attendons à discord !',
 
     server_limit_title: 'Le serveur Ne semble pas répondre',
     server_limit_description: 'Essayez de vous connecter plus tard',
@@ -133,8 +136,8 @@ const defaultLang = {
     server_down_title: 'Der Server hat geantwortet, dass er nicht betriebsbereit ist',
     server_down_description: 'Bitte überprüfen Sie später, ob dies unser Fehler ist, wir werden ihn bald beheben',
 
-    server_closed_title: 'Willkommen auf der Furry Map',
-    server_closed_description: 'Wir glauben an die Kraft der Community und hoffen, dass Sie auch an uns glauben und uns etwas mehr Zeit geben, um dieses Projekt abzuschließen. Bleib dran',
+    server_closed_title: 'Noch ein bisschen mehr und FurryMap wird hier sein',
+    server_closed_description: 'Wir bereiten das Projekt derzeit bereits auf den öffentlichen Beta-Test vor und werden versuchen, es so schnell wie möglich zu machen.\nWünschen Sie mehr Neuigkeiten ? Wir warten im discord !',
 
     server_limit_title: 'Der Server scheint nicht zu antworten',
     server_limit_description: 'Versuche später wiederzukommen',
@@ -151,4 +154,88 @@ const defaultLang = {
     app_error_sending_error_title: "Fehler beim Senden des Berichts",
     app_error_sending_error_desc: "Neu laden..."
   },
+  pl: {
+    start_title: 'Ładowanie',
+    start_desc: 'Proszę czekać',
+
+    main_error_title: 'Wygląda na to, że nie możemy załadować główne dane',
+    main_error_description: 'Postaramy się zaktualizować później...',
+
+    server_down_title: 'Serwer odpowiedział, że nie jest gotowy do pracy',
+    server_down_description: "Sprawdź później, jeśli to nasz błąd, wkrótce go naprawimy",
+
+    server_closed_title: "Trochę więcej i będzie tu Futrzana Mapa",
+    server_closed_description: 'W tej chwili przygotowujemy już projekt do publicznego testu beta i postaramy się to zrobić jak najszybciej\nCzy chcesz więcej wiadomości ? Czekamy na Ciebie z niecierpliwością !',
+
+    server_limit_title: 'Serwer nie wydaje się odpowiadać',
+    server_limit_description: 'Spróbuj wrócić później',
+
+    lang_error_title: 'Nie można załadować języka',
+    lang_error_description: 'Postaramy się zaktualizować później...',
+
+    app_error_title: 'Błąd',
+    app_error_desc: 'Proszę czekać, wysyłamy raport o błędzie',
+
+    app_error_sended_title: 'Wysłaliśmy raport o błędzie',
+    app_error_sended_desc: 'Proszę poczekać kilka sekund',
+
+    app_error_sending_error_title: "Błąd podczas wysyłania raportu",
+    app_error_sending_error_desc: "Ponowne ładowanie..."
+  },
+  pt: {
+    start_title:'Carregando',
+    start_desc: 'Aguarde',
+
+    main_error_title: 'Parece que não podemos carregar os dados principais',
+    main_error_description: 'Vamos tentar atualizar mais tarde...',
+
+    server_down_title: 'O servidor não está de momento pronto para funcionar',
+    server_down_description: 'Por favor, verifique mais tarde, se este erro é nosso, vamos corrigi-lo em breve',
+
+    server_closed_title: 'Um pouco mais e um mapa furry estará aqui',
+    server_closed_description: 'Neste momento já estamos a preparar o projecto para um teste beta público e tentaremos fazê-lo o mais rapidamente possível\nVocê quer mais notícias? Esperamos por você no discord!',
+
+    server_limit_title:'O servidor parece não estar a responder',
+    server_limit_description: 'Tente voltar mais tarde',
+
+    lang_error_title: 'Parece que não consigo carregar a língua',
+    lang_error_description: 'Vamos tentar atualizar mais tarde...',
+
+    app_error_title:'Erro',
+    app_error_desc: 'Aguarde, enviámos um relatório de bug',
+
+    app_error_sended_title: 'Enviámos um relatório de erro',
+    app_error_sended_desc: 'Aguarde alguns segundos',
+
+    app_error_sending_error_title: "Erro ao enviar o relatório",
+    app_error_sending_error_desc: "Recarregar..."
+  },
+  pt_br: {
+    start_title: 'Carregando',
+    start_desc: 'Aguarde',
+    
+    main_error_title:'Não foi possível carregar os dados principais',
+    main_error_description: 'Tentaremos atualizar mais tarde...',
+    
+    server_down_title: 'O servidor respondeu que não estava pronto para funcionar',
+    server_down_description: 'Por favor, tente novamente mais tarde. Caso o erro seja nosso, iremos corrigir o mais breve possível',
+    
+    server_closed_title:'Aguarde um pouco mais e o Furry Map já estará disponível',
+    server_closed_description: 'No momento já estamos preparando o projeto para um teste beta público e tentaremos fazê-lo o quanto antes\nVocê quer mais novidades ? Estamos te esperando no Discord !',
+    
+    server_limit_title:'O servidor não está respondendo',
+    server_limit_description: 'Tente novamente mais tarde',
+    
+    lang_error_title: 'Não foi possível carregar o idioma',
+    lang_error_description: 'Tentaremos atualizar mais tarde...',
+    
+    app_error_title: 'Erro',
+    app_error_desc:'Aguarde, estamos enviando um relatório de bug',
+    
+    app_error_sended_title:'Enviamos um relatório de erro',
+    app_error_sended_desc: 'Aguarde alguns segundos',
+    
+    app_error_sending_error_title:"Erro no envio do relatório",
+    app_error_sending_error_desc: "Recarregando..."
+  }
 }
