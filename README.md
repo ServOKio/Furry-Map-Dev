@@ -4,7 +4,7 @@ You can always find out the details of what exactly we are doing right now on th
 
 ### Thx
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="16px"/> <b>firankaaa#8231</b> for Polish translation</div>
-<div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pt.svg" width="16px"/> <b><a href="https://t.me/alfatoaster56">@Kawalyr</a></b> for Portuguese translation</div>
+<div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pt.svg" width="16px"/> <b><a href="https://t.me/alfatoaster56">@alfatoaster56</a></b> for Portuguese translation</div>
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="16px"/> <b><a href="https://t.me/Kawalyr">@Kawalyr</a></b> for Portuguese-Brazilian translation</div>
 
 ## lang.json & app.js
