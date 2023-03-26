@@ -7,6 +7,8 @@ You can always find out the details of what exactly we are doing right now on th
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pt.svg" width="16px"/> <b><a href="https://t.me/alfatoaster56">@alfatoaster56</a></b> for Portuguese translation</div>
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="16px"/> <b><a href="https://t.me/Kawalyr">@Kawalyr</a></b> for Portuguese-Brazilian translation</div>
 
+<b><a href="https://t.me/JaceFEhnon">@JaceFEhnon</a></b> for help in finding bugs
+
 ## lang.json & app.js
 This is a translation files. First you need to find out your language code in ISO 639-1. You can just press the `F12` key, paste
 ```js
