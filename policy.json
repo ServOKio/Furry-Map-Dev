@@ -1,0 +1,472 @@
+{
+    "policy": {
+        "ru": [
+            {
+                "title": "Начнём с основного",
+                "blocks": [
+                    {
+                        "title": "Последнее обновление - 15.08.2022 15:51 (день:месяц:год время) по Московскому времени",
+                        "list": []
+                    },
+                    {
+                        "title": "Кто мы",
+                        "list": [
+                            {
+                                "official": "Furry Map - неоффициальный проект-продолжение furrymap.net, где вы можете узнать о других фурри используя карту мира или добавить свои метки.",
+                                "simply": "Furry Map это неоффициальный проект-продолжение furrymap.net с картой для фурри"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Введение",
+                        "list": [
+                            {
+                                "official": "Всё изложенное тут является юридическим соглашением между нашим проектом Furry Map. Находясь на нашем проекте (далее совместно именуемыми «Сервис»), и получая доступ к нему, вы соглашаетесь с тем что вам 13 лет и более, если вы достигли возраста совершеннолетия в своей юрисдикции, то вы прочитали, поняли и приняли настоящие Условия, и если вам более 13 лет, но вы не достигли возраста совершеннолетия с своей юрисдикции, то ваш законный опекун прочитал настоящие Условия и согласился с ними.",
+                                "simply": "Если вы тут значит вам есть 13 лет или ваши родители/опекун не против"
+                            },
+                            {
+                                "official": "Сервис оставляет за собой право по своему усмотрению обновлять настоящие Условия по разным причинам, в том числе для соблюдения требований законодательства или отражения изменений в Furry Map.",
+                                "simply": "Мы можем обновить данную информацию когда угодно так что советуем иногда прочитывать это"
+                            },
+                            {
+                                "official": "Если вы возражаете против изменений, то вашим средством выразить своё несогласие с ними будет прекращение использования Сервиса.",
+                                "simply": "Если вы чем-то недовольны - вы можете это показать тем что просто уйдёте от сюда"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Термины",
+                        "list": [
+                            {
+                                "official": "Алгоритм - процедура или набор правил, которым следует компьютер при решении определенных задач.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Устройство - под этим термином подразумеваются ноутбуки, планшеты, смартфоны и другие устройства для доступа к нашим сервисам.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Хранилище веб-данных в браузере позволяет нам хранить информацию на устройстве пользователя. Например, это помогает нам быстрее загружать контент.",
+                                "simply": "В вашем устройстве есть небольшое хранилище в которое мы записываем важную информацию например чтобы вам не пришлось каждый раз вводить информацию которую уже вводили."
+                            },
+                            {
+                                "official": "Файлы cookie - \"печенья\" хранятся на устройстве пользователя и используются в разных целях. Отключение файлов может создать сбои в работе наших продуктов.",
+                                "simply": "Cookie - это небольшие файлы в которых хранится полезная информация которую мы используем и находится она на вашем устройстве"
+                            },
+                            {
+                                "official": "Аккаунт пользователя - чтобы получить доступ к некотором из наших сервисов, пользователь должен создать аккаунт, предоставив определенную информацию. Эти данные будут использоваться для авторизации в сервисах Furry Map и защиты аккаунта от несанкционированного доступа. Владелец аккаунта может внести изменения в любой момент и так же удалить его.",
+                                "simply": "Ваш аккаунт здесь - ваша личная тетрадка которая принадлежит только вам"
+                            },
+                            {
+                                "official": "NSFW - это материал/контент который может содержить такие материалы, как обнажённая натура, гуро, порнография и обсценная лексика, которые могут создать проблемы тому, кто их будет смотреть в присутствии коллег или посторонних посетителей.",
+                                "simply": "NSFW это то что подлежит цензуре. По факту NSFW переводится как \"не подходит для простотра на работе\", но и фотографии в купальниках это не NSFW так что мы в скором времени что-то придумаем."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Общие положения",
+                        "list": [
+                            {
+                                "official": "Пользователь несет личную ответственность за любую информацию, которую размещает в Сервисе.",
+                                "simply": "Всё что вы публикуете остаётся на вашей совести и никак не влияет на нас."
+                            },
+                            {
+                                "official": "Furry Map может содержать ссылки на иные веб-сайты, который не принадлежат или не контролируются нашим Сервисом. Мы не несём ответственности за любые сторонние сайты, информацию, материалы и тому подобное. Если вы получаете/переходите на сторонний веб-сайт, сервис и тому подобное вы автоматически соглашаетесь с тем, что Furry Map не несёт ответственности из-за вашего использования стороних веб-сайтов, сервисов и тому подобное.",
+                                "simply": "Если вы перешли куда-то по ссылке которую нашли тут и попались на мошеников - это не наша вина."
+                            },
+                            {
+                                "official": "С УЧЕТОМ ПРИМЕНИМОГО ПРАВА, КОГДА ВЫ ИСПОЛЬЗУЕТЕ СЕРВИС ИЛИ СЛУЖБЫ, ВЫ ИСПОЛЬЗУЕТЕ ИХ «КАК ЕСТЬ». ЭТО ОЗНАЧАЕТ, ЧТО МЫ НЕ БЕРЕМ НА СЕБЯ КАКИЕ-ЛИБО ОБЯЗАТЕЛЬСТВА ПЕРЕД ВАМИ ОТНОСИТЕЛЬНО СТАНДАРТА ИЛИ КАЧЕСТВА СЕРВИСА И ЕГО СОДЕРЖИМОГО ИЛИ ОТНОСИТЕЛЬНО ТОГО, ЧТО СЕРВИС БУДЕТ РАБОТАТЬ БЕЗ ПЕРЕБОЕВ ИЛИ ОШИБОК. ЭТО ОЗНАЧАТ, ЧТО МЫ НЕ НЕСЕМ ОТВЕТСТВЕННОСТЬ ЗА КАКИЕ-ЛИБО УБЫТКИ, КОТОРЫЕ ВЫ МОЖЕТЕ ПОНЕСТИ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ СЕРВИСА.",
+                                "simply": "Если вы использовали наш Сервис для заработка, получили ошибку и понесли утраты - мы тут не виноваты."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Информация",
+                        "list": [
+                            {
+                                "official": "Мы собираем только информацию которую вы намеренно предоставляете нам по типу вашего никнейма, ваших ответов и другого что вы предоставили нам при создании своего профиля, а так-же ваши статьи, проекты, изображения и другой контент.",
+                                "simply": "Например ваши сообщения, посты и другое"
+                            },
+                            {
+                                "official": "В целях улучшения проекта мы оставляем за собой право обрабатывать и хранить ваш IP адрес, информацию о вашей устройстве (например платформу, размер экрана) и другое.",
+                                "simply": "Ваш IP адрес хранится только когда вы авторизовываетесь в приложении для обнаружения попыток взлома. Вы всегда сможете удалить логи в любой момент."
+                            },
+                            {
+                                "official": "Информацией общего вида является информация о вашем аккаунте: ваш ник, ссылка на аватар, ссылка на баннер, цвет и личный идентификатор (ID). Если-же же профиль является приватный общей информацией является только ID и ваш ник.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Мы не передаем никакую информацию третьим лицам и храним её только у нас удаляя её при первом-же подозрении в утечке. Вашу личную информацию мы можем передать только при вашем согласии.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "В нашу задачу не входит просмотр или модерация публикаций.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Вы также соглашаетесь с тем, что мы можем разрешать другим лицам использовать, копировать, изменять, адаптировать, распространять и публично отображать ваше содержимое. Вы не отказываетесь от прав собственности на ваше содержимое, вы только даете разрешение на его использование нам и другим пользователям.",
+                                "simply": "\"публично отображать ваше содержимое\" - отображаемый контент будет зависеть от настроек в аккаунте"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Ограничения",
+                        "list": [
+                            {
+                                "official": "Категорически запрещено взламывать, декомпилировать или изменять Сервис.",
+                                "simply": "Вы не можете использовать наши идеи и присваивать их."
+                            },
+                            {
+                                "official": "Пожалуйста, не используйте Cервис каким-либо образом, который мы можем счесть оскорбительным, аморальным, незаконным или причиняющим неловкость другим людям.",
+                                "simply": "Перед тем как что-то сделать - подумайте о других"
+                            },
+                            {
+                                "official": "Запрещено использовать Сервис в коммерческих целях.",
+                                "simply": "Не используйте наше выдавая за своё."
+                            },
+                            {
+                                "official": "Если ваш возраст меньше 13 лет вам запрещенно создание аккаунта.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Вы не имеете право создавать/делиться/распространять контент который является незаконным, мошенническим, дискриминационным или вводящим в заблуждение, а так же нарушающий действующую политику.",
+                                "simply": "Категорически запрещено распротранение неверной или незаконной информации."
+                            },
+                            {
+                                "official": "Вы не имеете права загружать вирусы или вредоносный код либо совершать действия, которые могут привести к отключению, нарушению нормальной работы или ухудшению внешнего вида наших Продуктов либо к чрезмерной нагрузке на них.",
+                                "simply": "Пожалуйста не пробуйте нас каким либо образом взломать или навредить."
+                            },
+                            {
+                                "official": "Запрещено осуществлять незаконные сбор и обработку персональных данных других лиц",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Категорически запрещено размещать политическую или коммерческую информацию вне специальных разделов",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Вы не имеете права осуществлять доступ или собирать данные из наших Продуктов с помощью автоматических средств (без нашего предварительного разрешения) или пытаться получить доступ к данным при отсутствии разрешения на такой доступ.",
+                                "simply": "Не copy/past'ите ничего у нас (если конечно очень сильно не захочется)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Что мы храним и как используем это",
+                "blocks": [
+                    {
+                        "title": "cookies",
+                        "list": [
+                            {
+                                "official": "screen - сервер использует это значение только для того чтобы показывать изображения нужного размера. Например если ваш экран 720p вам будет показано уменьшенное изображение 720p, а не оригинал в 4k",
+                                "simply": ""
+                            },
+                            {
+                                "official": "hfquyironiew762ufib - содержит токен авторизации для приложения",
+                                "simply": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "localstorage",
+                        "list": [
+                            {
+                                "official": "В локальном хранилище хранятся только локальные настройки (например цветовая схема). Их читает приложение и не отправляет на сервер",
+                                "simply": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Аналитика отправляемая в /analytics",
+                        "list": [
+                            {
+                                "official": "В аналитике содержится только информация касающая оптимизации например время перед первым кликом или эллементы которые слишком нагружают систему. Мы используем эти данные для оптимизации приложения.",
+                                "simply": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "А теперь по подробнее",
+                "blocks": [
+                    {
+                        "title": "Правила",
+                        "list": [
+                            {
+                                "official": "P.S. Да, мы знаем в большинстве случаев правилами пользуются только когда хотят кому-то насолить, ищут правило и жалуются админам - это подло и мы прекрасно это понимаем. Пожалуйста - если это ваш случай и вас кто-то бесит или просто вам кто-то не нравится, успокойтесь. Ну получит он предупреждение и что дальше ? Самооценка что-ли поднимется от того что вы в ответ гадость сделали ? Это как минимум глупо - просто не обращайте внимания, будьте выше этого.",
+                                "simply": "\\(._.)/"
+                            },
+                            {
+                                "official": "Насчёт NSFW постов и другого - пожалуйста маркируйте их как NSFW.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Если вы хорни, вы автоматически соглашатесь и обязуетесь присылать на почту nudes@furry-map.net свои любимые NSFW арты которые Вам нравятся. В противном случае администрация оставляет за собой право устроить вам баллбустинг для стимуляции",
+                                "simply": "Присылайте NSFW на nudes@furry-map.net - мы тоже хотим попялиться"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Приложение",
+                        "list": [
+                            {
+                                "official": "Ваш никнейм может быть абсолютно любым так как мы стараемся не ограничивать пользователей ни в чём. Запрещеными никнеймами являются только те которые нарушают текущую политику.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Любимый цвет предоставленный вами используется для построения графического интерфейса сайта и для кастомизации вашего профиля.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Аватар - изображение в формате jpg/png/jpeg/webp/gif. Запрещеными аватарами являются только те которые нарушают текущую политику.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Баннер изображение в формате jpg/png/jpeg/webp/gif. Запрещеными баннерами являются только те которые нарушают текущую политику.",
+                                "simply": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "en": [
+            {
+                "title": "Let's start with the main",
+                "blocks": [
+                    {
+                        "title": "Last updated - 08/15/2022 15:51 (day:month:year time) Moscow time",
+                        "list": []
+                    },
+                    {
+                        "title": "Attention! This version of the policy may contain translation errors, therefore the Russian version is the main one.",
+                        "list": []
+                    },
+                    {
+                        "title": "Who are we",
+                        "list": [
+                            {
+                                "official": "Furry Map - non-official project-continued furrymap.net where you can learn about other furries using the world map or add your own tags.",
+                                "simply": "Furry Map is a non-official project-continuation furrymap.net with a furry card"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Introduction",
+                        "list": [
+                            {
+                                "official": "Everything stated here is a legal agreement between our Furry Map project. By being on our project (hereinafter collectively referred to as the \"Service\") and accessing it, you agree that you are 13 years old or older, if you have reached the age of majority in your jurisdiction, then you have read, understood and accepted these Terms, and if you are over 13 years old, but you have not reached of the age of majority with their jurisdiction, then your legal guardian has read these Terms and agreed to them.",
+                                "simply": "If you are here, then you are 13 years old or your parents/guardian does not mind"
+                            },
+                            {
+                                "official": "The Service reserves the right to update these Terms at its discretion for various reasons, including to comply with legal requirements or reflect changes in Furry Map.",
+                                "simply": "We can update this information at any time, so we advise you to read it sometimes"
+                            },
+                            {
+                                "official": "If you object to the changes, then your means of expressing your disagreement with them will be to stop using the Service.",
+                                "simply": "If you are dissatisfied with something, you can show it by simply leaving here"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Terms",
+                        "list": [
+                            {
+                                "official": "Algorithm is a procedure or set of rules that a computer follows when solving certain tasks.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Device - this term means laptops, tablets, smartphones and other devices for accessing our services.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Web data storage in the browser allows us to store information on the user's device. For example, it helps us to load content faster.",
+                                "simply": "There is a small storage in your device in which we record important information, for example, so that you do not have to enter information that you have already entered every time."
+                            },
+                            {
+                                "official": "Cookies - \"cookies\" are stored on the user's device and are used for various purposes. Disabling files may cause disruptions in the operation of our products.",
+                                "simply": "Cookies are small files that store useful information that we use and it is located on your device"
+                            },
+                            {
+                                "official": "User Account - in order to access some of our services, the user must create an account by providing certain information. This data will be used to log in to Furry Map services and protect your account from unauthorized access. The account owner can make changes at any time and also delete it.",
+                                "simply": "Your account here is your personal notebook that belongs only to you"
+                            },
+                            {
+                                "official": "NSFW is a material/content that may contain such materials as nudity, guro, pornography and obscene vocabulary that can create problems for someone who will watch them in the presence of colleagues or unauthorized visitors.",
+                                "simply": "NSFW is something that is subject to censorship. In fact, NSFW translates as \"not suitable for simplicity at work\", but photos in swimsuits are not NSFW, so we will come up with something soon."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "General provisions",
+                        "list": [
+                            {
+                                "official": "The User is personally responsible for any information that he places on the Service.",
+                                "simply": "Everything you publish remains on your conscience and does not affect us in any way."
+                            },
+                            {
+                                "official": "Furry Map may contain links to other websites that are not owned or controlled by our Service. We are not responsible for any third-party websites, information, materials and the like. If you receive/go to a third-party website, service, and the like, you automatically agree that Furry Map is not responsible for your use of other websites, services, and the like.",
+                                "simply": "If you went somewhere by the link that you found here and got caught by moshenikov, it's not our fault."
+                            },
+                            {
+                                "official": "SUBJECT TO APPLICABLE LAW, WHEN YOU USE THE SERVICE OR SERVICES, YOU USE THEM \"AS IS\". THIS MEANS THAT WE DO NOT ASSUME ANY OBLIGATIONS TO YOU REGARDING THE STANDARD OR QUALITY OF THE SERVICE AND ITS CONTENT OR THAT THE SERVICE WILL WORK WITHOUT INTERRUPTIONS OR ERRORS. THIS MEANS THAT WE ARE NOT RESPONSIBLE FOR ANY LOSSES THAT YOU MAY INCUR AS A RESULT OF USING THE SERVICE.",
+                                "simply": "If you used our Service to earn money, got a mistake and suffered losses - we are not to blame here."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Information",
+                        "list": [
+                            {
+                                "official": "We only collect information that you intentionally provide to us by the type of your nickname, your answers and other that you provided to us when creating your profile, as well as your articles, projects, images and other content.",
+                                "simply": "For example, your messages, posts and other"
+                            },
+                            {
+                                "official": "In order to improve the project, we reserve the right to process and store your IP address, information about your device (e.g. platform, screen size) and more.",
+                                "simply": "Your IP address is stored only when you log in to the application to detect hacking attempts. You can always delete logs at any time."
+                            },
+                            {
+                                "official": "General information is information about your account: your nickname, link to avatar, link to banner, color and personal identifier (ID). If the same profile is private, the general information is only the ID and your nickname.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "We do not transfer any information to third parties and store it only with us, deleting it at the first suspicion of a leak. We can transfer your personal information only with your consent.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Our task does not include viewing or moderation of publications.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "You also agree that we may allow others to use, copy, modify, adapt, distribute and publicly display your content. You do not give up ownership of your content, you only give permission for its use to us and other users.",
+                                "simply": "\"publicly display your content\" - the displayed content will depend on the settings in the account"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Restrictions",
+                        "list": [
+                            {
+                                "official": "It is strictly forbidden to hack, decompile or modify the Service.",
+                                "simply": "You cannot use our ideas and assign them."
+                            },
+                            {
+                                "official": "Please do not use the Service in any way that we may find offensive, immoral, illegal or embarrassing to other people.",
+                                "simply": "Before you do something, think about others"
+                            },
+                            {
+                                "official": "It is forbidden to use the Service for commercial purposes.",
+                                "simply": "Do not use our posing as your own."
+                            },
+                            {
+                                "official": "If your age is less than 13, you are prohibited from creating an account.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "You have no right to create/share/distribute content that is illegal, fraudulent, discriminatory or misleading, as well as violating the current policy.",
+                                "simply": "It is strictly prohibited to distribute incorrect or illegal information."
+                            },
+                            {
+                                "official": "You have no right to download viruses or malicious code or perform actions that may lead to shutdown, disruption of normal operation or deterioration of the appearance of our Products or to excessive load on them.",
+                                "simply": "Please do not try to hack or harm us in any way."
+                            },
+                            {
+                                "official": "Illegal collection and processing of personal data of other persons is prohibited",
+                                "simply": ""
+                            },
+                            {
+                                "official": "It is strictly forbidden to post political or commercial information outside of special sections",
+                                "simply": ""
+                            },
+                            {
+                                "official": "You have no right to access or collect data from our Products using automatic means (without our prior permission) or to attempt to access data in the absence of permission for such access.",
+                                "simply": "Do not copy/paste anything from us (unless of course very much I don't want to)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "What we store and how we use it",
+                "blocks": [
+                    {
+                        "title": "cookies",
+                        "list": [
+                            {
+                                "official": "the screen server uses this value only to show images of the desired size. For example, if your screen is 720p, you will be shown a 720p thumbnail image, and not the original in 4k",
+                                "simply": ""
+                            },
+                            {
+                                "official": "hfquyironiew762ufib - contains an authorization token for the application",
+                                "simply": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "localstorage",
+                        "list": [
+                            {
+                                "official": "Only local settings (e.g. color scheme) are stored in the local storage. The application reads them and does not send them to the server",
+                                "simply": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Analytics sent to /analytics",
+                        "list": [
+                            {
+                                "official": "Analytics contains only information related to optimization, for example, the time before the first click or elements that load the system too much. We use this data to optimize the application.",
+                                "simply": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "And now for more details",
+                "blocks": [
+                    {
+                        "title": "Rules",
+                        "list": [
+                            {
+                                "official": "P.S. Yes, we know in most cases the rules are used only when they want to annoy someone, they are looking for a rule and complain to admins - it's mean and we understand it perfectly. Please - if this is your case and someone pisses you off or you just don't like someone, calm down. Well , he will get a warning and what next ? Will self-esteem rise from the fact that you did something nasty in response? This is at least stupid - just ignore it, be above it.",
+                                "simply": "\\(._.)/"
+                            },
+                            {
+                                "official": "About NSFW posts and other - please label them as NSFW.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "If you are a horny, you automatically agree and undertake to send by email nudes@furry-map.net your favorite NSFW arts that you like. Otherwise, the administration reserves the right to arrange a ballbusting for you to stimulate",
+                                "simply": "Send NSFW to nudes@furry-map.net - we also want to see"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Application",
+                        "list": [
+                            {
+                                "official": "Your nickname can be absolutely anything as we try not to restrict users in anything. Prohibited nicknames are only those that violate the current policy.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "The favorite color provided by you is used to build the graphical interface of the site and to customize your profile.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Avatar is an image in jpg/png/jpeg/webp/gif format. Banned avatars are only those that violate the current policy.",
+                                "simply": ""
+                            },
+                            {
+                                "official": "Banner image in jpg/png/jpeg/webp/gif format. Banned banners are only those that violate the current policy.",
+                                "simply": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
