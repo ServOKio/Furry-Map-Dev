@@ -1,5 +1,8 @@
 {
     "en": {
+        "main_loader_500_title": "AH, RIGHT IN THE EYE!",
+        "main_loader_500_desc": "It seems there was an error when receiving the data, try reload app",
+
         "header_map": "Map",
         "header_list": "List",
         "header_policy": "Policy",
@@ -71,7 +74,11 @@
 
         "app_settings_account_profile_title": "Profile",
         "app_settings_account_profile_desc": "The first thing everyone is looking at - your profile",
+        "app_settings_account_profile_unload_too_big_senpai": "The %type% image is too large, the limit is %max_size%",
+        "app_settings_account_profile_unload_banner_button": "Select banner",
+        "app_settings_account_profile_unload_save_button": "Save changes",
         "app_settings_account_profile_unload_progress": "Unloading",
+        "app_settings_account_profile_unload_unknown_error": "It seems an unknown error has occurred",
         "app_settings_account_ual_title": "Details",
         "app_settings_account_ual_desc": "Now a little more about you",
         "app_settings_account_ual_username_title": "Your nickname",
@@ -126,6 +133,41 @@
         "settings_app_theme_list_light": "Light theme",
         "settings_app_theme_list_dark": "Dark theme",
 
+        "app_chat_guild_popup_settings": "Guild settings",
+        "app_chat_guild_popup_invite": "Create invite",
+        "app_chat_guild_popup_show_icon": "Show icon",
+        "app_chat_guild_popup_show_banner": "Show banner",
+        "app_chat_guild_popup_copy_id": "Copy ID",
+
+        "app_chat_panel_roles_permission_title_1": "View channel/category",
+        "app_chat_panel_roles_permission_desc_1": "Can see channel or category",
+        "app_chat_panel_roles_permission_title_2": "Send messages",
+        "app_chat_panel_roles_permission_desc_2": "Can send messages",
+        "app_chat_panel_roles_permission_title_3": "Change the server",
+        "app_chat_panel_roles_permission_desc_3": "Can change the name, icon, view, banner",
+        "app_chat_panel_roles_permission_title_4": "Expel the participant",
+        "app_chat_panel_roles_permission_desc_4": "Can expel the participant from the server",
+        "app_chat_panel_roles_permission_title_5": "Block a participant",
+        "app_chat_panel_roles_permission_desc_5": "Can block a participant",
+        "app_chat_panel_roles_permission_title_6": "Create an invitation",
+        "app_chat_panel_roles_permission_desc_6": "Can create an invitation to the server",
+
+        "app_chat_emoji_selector_search_placeholder": "Search",
+        "app_chat_emoji_selector_smileys_people": "Smiley",
+        "app_chat_emoji_selector_animals_nature": "Animals and nature",
+        "app_chat_emoji_selector_food_drink": "Food and drinks",
+        "app_chat_emoji_selector_travel_places": "Travels",
+        "app_chat_emoji_selector_activities": "Activities",
+        "app_chat_emoji_selector_objects": "Objects",
+        "app_chat_emoji_selector_symbols": "Symbols",
+        "app_chat_emoji_selector_flags": "Flags",
+
+        "app_ui_embed_maybe_nsfw_hiden_title": "Content MAY contain content unsuitable for the content filter settings",
+        "app_ui_embed_maybe_nsfw_hiden_button": "Show anyway?",
+
+        "app_ui_embed_nsfw_hiden_title": "Content is hidden due to user filter settings",
+        "app_ui_embed_nsfw_hiden_button": "Show anyway?",
+
         "status_title": "Status",
         "status_desc_title": "The state of our system",
         "status_desc_description": "If something is wrong, you can always find out about it here",
@@ -151,7 +193,19 @@
         "app_geo_day": "day",
         "app_geo_hour": "hour",
         "app_geo_minute": "minute",
-        "app_geo_second": "second"
+        "app_geo_second": "second",
+
+        "app_translate_button": "Translate into %lang%",
+
+        "group_event_date_today": "Today",
+        "group_event_date_tomorrow": "Tomorrow",
+        
+        "group_event_block_open": "Open",
+
+        "types_general_avatar": "avatar",
+        "types_general_banner": "banner",
+        "types_problem_in_user_data_title": "It seems there is a problem",
+        "file_sizes": ["Bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"]
     },
     "uk": {
         "header_map":"Карта",
@@ -268,6 +322,8 @@
         "app_settings_geo_map_desc": "Просто вкажіть свою геолокацію. Не бійтеся, ми зашифруємо ваші точні дані і злегка зрушимо ваш маркер на кілька метрів-кілометрів",
         "app_settings_block_snow_me_title": "Показати мій маркер на карті",
         "app_settings_block_snow_me_desc": "Ви можете приховати свій маркер, якщо хочете, і ніхто не дізнається, де ви знаходитесь",
+        "app_settings_block_show_real_geolocation_title": "Показати реальне геолокаційне розташування",
+        "app_settings_block_show_real_geolocation_desc": "Ми не будемо приховувати ваше реальне геолокаційне розташування, але ми покажемо вам, де ви насправді перебуваєте",
         "app_settings_block_market_style_title":"Стиль маркера",
         "app_settings_block_market_style_desc": "Ви можете вибрати форму маркера, яка вам найбільше підходить. Так, тут не всі стилі, Ми всі малюємо інші",
         "app_settings_block_market_color_title": "Колір маркера",
@@ -302,6 +358,48 @@
         "app_chat_nsfw_guild_warning_button": "Обхід для цього сервера?",
         "app_chat_unknown_guild_title": "Де я ?",
         "app_chat_unknown_guild_desc": "Виберіть сервер або створіть новий якщо хочете",
+
+        "app_chat_guild_popup_settings": "Налаштування гільдії",
+        "app_chat_guild_popup_invite": "Створити запрошення",
+        "app_chat_guild_popup_show_icon": "Показати іконку",
+        "app_chat_guild_popup_show_banner": "Показати банер",
+        "app_chat_guild_popup_copy_id": "Скопіювати ID",
+
+        "app_chat_placeholder": "ЯСообщение",
+        "app_chat_panel_menu_close": "закрити",
+        "app_chat_panel_menu_main": "основне",
+        "app_chat_panel_menu_roles": "ролі",
+        "app_chat_panel_menu_channels": "канали",
+        "app_chat_panel_menu_invites": "запрошення",
+        "app_guild_settings_name_title": "назва сервера",
+        "app_guild_settings_name_desc": "вибирати вам",
+        "app_guild_settings_description_title": "опис",
+        "app_guild_settings_description_desc": "опишіть сервер як хочете. Це так-же буде відображатися в запрошеннях",
+        "app_guild_settings_nsfw_guild_title": "NSFW",
+        "app_guild_settings_nsfw_guild_desc": "якщо практично весь контент всередині є NSFW - включайте",
+        "app_guild_settings_banner_form_0": "нічого не змінювати",
+        "app_guild_settings_banner_form_1": "горизонтальний прямокутник",
+        "app_guild_settings_banner_form_2": "Квадрат",
+        "app_guild_settings_banner_form_3": "вертикальний прямокутник",
+        "app_guild_settings_banner_darken_title": "додати затемнення",
+        "app_guild_settings_banner_darken_desc": "зробити темніше картинку",
+        "app_guild_settings_banner_add_gradient_title": "додати градієнт",
+        "app_guild_settings_banner_add_gradient_desc": "просто невелика смужка щоб не ламати вигляд інтерфейсу",
+        "app_guild_settings_banner_round_bottom_title": "закруглити нижню частину",
+        "app_guild_settings_banner_round_bottom_desc": "зробити нижній лівий і правий кут кругліше",
+
+        "app_chat_panel_roles_permission_title_1": "перегляд каналу / категорії" ,
+        "app_chat_panel_roles_permission_desc_1": "може бачити канал або категорію",
+        "app_chat_panel_roles_permission_title_2": "відправляти повідомлення",
+        "app_chat_panel_roles_permission_desc_2": "може відправляти повідомлення",
+        "app_chat_panel_roles_permission_title_3": "змінювати сервер",
+        "app_chat_panel_roles_permission_desc_3": "може змінювати назву, іконку, вид, банер",
+        "app_chat_panel_roles_permission_title_4": "вигнати учасника",
+        "app_chat_panel_roles_permission_desc_4": "може вигнати учасника C сервера",
+        "app_chat_panel_roles_permission_title_5": "заблокувати учасника",
+        "app_chat_panel_roles_permission_desc_5": "може заблокувати учасника",
+        "app_chat_panel_roles_permission_title_6": "створювати запрошення",
+        "app_chat_panel_roles_permission_desc_6": "може створити запрошення на сервер",
 
         "app_chat_emoji_selector_search_placeholder":"пошук",
         "app_chat_emoji_selector_smileys_people": "Смайлики",
@@ -344,7 +442,19 @@
         "app_geo_day":"день",
         "app_geo_hour":"час",
         "app_geo_minute":"хвилину",
-        "app_geo_second":"секунду"
+        "app_geo_second":"секунду",
+
+        "app_translate_button": "Перекласти на %lang%",
+
+        "group_event_date_today": "Сьогодні",
+        "group_event_date_tomorrow": "Завтра",
+
+        "group_event_block_open": "Відкрито",
+
+        "types_general_avatar": "аватар",
+        "types_general_banner":"банер",
+        "types_problem_in_user_data_title": "Здається, є проблема",
+        "file_sizes": ["Байти", "КБ", "МБ", "ГБ", "ТБ", "PB"," EB"," ZB","YB"]
     },
     "ru": {
         "header_map": "Карта",
@@ -456,6 +566,8 @@
         "app_settings_geo_map_desc": "Просто укажите свою геолокацию. Не бойтесь, мы зашифруем ваши точные данные и слегка сдвинем ваш маркер на несколько метров-километров",
         "app_settings_block_snow_me_title": "Показать мой маркер на карте",
         "app_settings_block_snow_me_desc": "Вы можете скрыть свой маркер, если хотите, и никто не узнает, где вы находитесь",
+        "app_settings_block_show_real_geolocation_title": "Показать реальную геолокацию",
+        "app_settings_block_show_real_geolocation_desc": "Мы не будем скрывать ваше реальное геолокационное местоположение, и покажем всем, где вы на самом деле находитесь",
         "app_settings_block_market_style_title": "Стиль маркера",
         "app_settings_block_market_style_desc": "Вы можете выбрать форму маркера, которая подходит вам лучше всего. Да, здесь не все стили, мы все рисуем остальные",
         "app_settings_block_market_color_title": "Цвет маркера",
@@ -483,8 +595,26 @@
         "app_settings_aeb_settings_rotate_title": "Поворот",
         "app_settings_aeb_settings_rotate_desc": "Поворот выбраной зоны",
 
-        "app_theme_list_light": "Светлая тема",
-        "app_theme_list_dark": "Тёмная тема",
+        "settings_app_theme_list_light": "Светлая тема",
+        "settings_app_theme_list_dark": "Тёмная тема",
+
+        "app_chat_guild_popup_copy_id": "Скопировать ID",
+
+        "app_chat_emoji_selector_search_placeholder": "Поиск",
+        "app_chat_emoji_selector_smileys_people": "Смайлики",
+        "app_chat_emoji_selector_animals_nature": "Животные и природа",
+        "app_chat_emoji_selector_food_drink": "Еда и напитки",
+        "app_chat_emoji_selector_travel_places": "Поездки",
+        "app_chat_emoji_selector_activities": "Повседневность",
+        "app_chat_emoji_selector_objects": "Объекты",
+        "app_chat_emoji_selector_symbols": "Символы",
+        "app_chat_emoji_selector_flags": "Флаги",
+
+        "app_ui_embed_maybe_nsfw_hiden_title": "Содержимое МОЖЕТ содержать контент скрытый в связи с настройками фильтра для контента",
+        "app_ui_embed_maybe_nsfw_hiden_button": "Показать ?",
+
+        "app_ui_embed_nsfw_hiden_title": "Содержимое скрыто в связи с настройками фильтра для контента",
+        "app_ui_embed_nsfw_hiden_button": "Показать ?",
 
         "status_title": "Статус",
         "status_desc_title": "Статус нашей системы",
@@ -511,7 +641,19 @@
         "app_geo_day": "день",
         "app_geo_hour": "час",
         "app_geo_minute": "минуту",
-        "app_geo_second": "секунду"
+        "app_geo_second": "секунду",
+
+        "app_translate_button": "Перевести на %lang%",
+
+        "group_event_date_today": "Сегодня",
+        "group_event_date_tomorrow": "Завтра",
+
+        "group_event_block_open": "Открыто",
+
+        "types_general_avatar": "аватар",
+        "types_general_banner": "баннер",
+        "types_problem_in_user_data_title": "Кажется, есть проблема",
+        "file_sizes": ["Байты", "КБ", "МБ", "ГБ", "ТБ", "PB", "EB", "ZB", "YB"]
     },
     "fr": {
         "header_map":"Carte",
@@ -606,6 +748,8 @@
         "app_settings_geo_map_desc": "Spécifiez simplement votre géolocalisation. N'ayez pas peur, nous chiffrons vos données exactes et décalons légèrement votre marqueur de quelques mètres-kilomètres",
         "app_settings_block_snow_me_title": "Afficher mon marqueur sur la carte",
         "app_settings_block_snow_me_desc": "Vous pouvez masquer votre marqueur si vous le souhaitez et personne ne saura où vous êtes",
+        "app_settings_block_show_real_geolocation_title": "Afficher la géolocalisation réelle",
+        "app_settings_block_show_real_geolocation_desc": "Nous ne cacherons pas votre géolocalisation réelle, nous vous montrerons où vous êtes vraiment",
         "app_settings_block_market_style_title": "Style de marqueur",
         "app_settings_block_market_style_desc": "Vous pouvez choisir la forme du marqueur qui vous convient le mieux. Oui, tous les styles ne sont pas là, nous dessinons tous le reste",
         "app_settings_block_market_color_title": "Couleur du marqueur",
@@ -636,6 +780,41 @@
         "settings_app_theme_list_light": "Thème de lumière",
         "settings_app_theme_list_dark": "Thème sombre",
 
+        "app_chat_guild_popup_settings": "Paramètres de guilde",
+        "app_chat_guild_popup_invite": "Créer une invitation",
+        "app_chat_guild_popup_show_icon": "Afficher l'icône",
+        "app_chat_guild_popup_show_banner": "Afficher la bannière",
+        "app_chat_guild_popup_copy_id": "Copier l'identifiant",
+        
+        "app_chat_panel_roles_permission_title_1": "Afficher la chaîne / catégorie",
+        "app_chat_panel_roles_permission_desc_1": "Peut voir le canal ou la catégorie",
+        "app_chat_panel_roles_permission_title_2": "Envoyer des messages",
+        "app_chat_panel_roles_permission_desc_2": "Peut envoyer des messages",
+        "app_chat_panel_roles_permission_title_3": "Changer le serveur",
+        "app_chat_panel_roles_permission_desc_3": "Peut changer le nom, l'icône, la vue, la bannière",
+        "app_chat_panel_roles_permission_title_4": "Expulser le participant",
+        "app_chat_panel_roles_permission_desc_4": "Peut expulser le participant du serveur",
+        "app_chat_panel_roles_permission_title_5": "Bloquer un participant",
+        "app_chat_panel_roles_permission_desc_5": "Peut bloquer un participant",
+        "app_chat_panel_roles_permission_title_6": "Créer une invitation",
+        "app_chat_panel_roles_permission_desc_6": "Peut créer une invitation au serveur",
+
+        "app_chat_emoji_selector_search_placeholder": "Rechercher",
+        "app_chat_emoji_selector_smileys_people": "Smiley",
+        "app_chat_emoji_selector_animals_nature": "Animaux et nature",
+        "app_chat_emoji_selector_food_drink": "Nourriture et boissons",
+        "app_chat_emoji_selector_travel_places": "Voyages",
+        "app_chat_emoji_selector_activities": "Activités",
+        "app_chat_emoji_selector_objects": "Objets",
+        "app_chat_emoji_selector_symbols": "Symboles",
+        "app_chat_emoji_selector_flags": "Drapeaux",
+
+        "app_ui_embed_maybe_nsfw_hiden_title": "Le contenu PEUT contenir un contenu inadapté aux paramètres du filtre de contenu",
+        "app_ui_embed_maybe_nsfw_hiden_button": "Afficher quand même ?",
+
+        "app_ui_embed_nsfw_hiden_title": "Le contenu est masqué en raison des paramètres de filtre utilisateur",
+        "app_ui_embed_nsfw_hiden_button": "Afficher quand même ?",
+
         "status_title": "Statut",
         "status_desc_title": "L'état de notre système",
         "status_desc_description": "Si quelque chose ne va pas, vous pouvez toujours le savoir ici",
@@ -661,7 +840,19 @@
         "app_geo_day": "jour",
         "app_geo_hour": "heure",
         "app_geo_minute":"minute",
-        "app_geo_second":"seconde"
+        "app_geo_second":"seconde",
+
+        "app_translate_button": "Traduire en %lang%",
+
+        "group_event_date_today": "Aujourd'hui",
+        "group_event_date_tomorrow": "Demain",
+
+        "group_event_block_open": "Ouvert",
+
+        "types_general_avatar": "avatar",
+        "types_general_banner": "bannière",
+        "types_problem_in_user_data_title": "Il semble qu'il y ait un problème",
+        "file_sizes": ["Octets", "Ko", "Mo", "Go", "TO", "PB", "EB", "ZB","YB"]
     },
     "de": {
         "header_map": "Karte",
@@ -756,6 +947,8 @@
         "app_settings_geo_map_desc": "Gib einfach deinen Standort an. Haben Sie keine Angst, wir verschlüsseln Ihre genauen Daten und verschieben Ihre Markierung leicht um einige Meter-Kilometer.",
         "app_settings_block_snow_me_title": "Meine Markierung auf der Karte anzeigen",
         "app_settings_block_snow_me_desc": "Du kannst deinen Marker verstecken, wenn du willst und niemand wird wissen, wo du bist",
+        "app_settings_block_show_real_geolocation_title": "Echte Geolokalisierung anzeigen",
+        "app_settings_block_show_real_geolocation_desc": "Wir werden Ihre echte Geolokalisierung nicht verbergen, wir werden Ihnen zeigen, wo Sie wirklich sind.",
         "app_settings_block_market_style_title": "Markierungsstil",
         "app_settings_block_market_style_desc": "Du kannst die Form des Markers wählen, die am besten zu dir passt. Ja, nicht alle Stile sind hier, wir alle zeichnen den Rest.",
         "app_settings_block_market_color_title": "Markierungsfarbe",
@@ -786,6 +979,41 @@
         "settings_app_theme_list_light": "Helles Thema",
         "settings_app_theme_list_dark": "Dunkles Thema",
 
+        "app_chat_guild_popup_settings": "Gildeneinstellungen",
+        "app_chat_guild_popup_invite": "Einladung erstellen",
+        "app_chat_guild_popup_show_icon": "Symbol anzeigen",
+        "app_chat_guild_popup_show_banner": "Banner anzeigen",
+        "app_chat_guild_popup_copy_id": "ID kopieren",
+
+        "app_chat_panel_roles_permission_title_1": "Kanal/Kategorie anzeigen",
+        "app_chat_panel_roles_permission_desc_1": "Kann Kanal oder Kategorie sehen",
+        "app_chat_panel_roles_permission_title_2": "Nachrichten senden",
+        "app_chat_panel_roles_permission_desc_2": "Kann Nachrichten senden",
+        "app_chat_panel_roles_permission_title_3": "Den Server wechseln",
+        "app_chat_panel_roles_permission_desc_3": "Kann den Namen, das Symbol, die Ansicht und das Banner ändern",
+        "app_chat_panel_roles_permission_title_4": "Teilnehmer ausschließen",
+        "app_chat_panel_roles_permission_desc_4": "Kann den Teilnehmer vom Server ausschließen",
+        "app_chat_panel_roles_permission_title_5": "Einen Teilnehmer blockieren",
+        "app_chat_panel_roles_permission_desc_5": "Kann einen Teilnehmer blockieren",
+        "app_chat_panel_roles_permission_title_6": "Erstelle eine Einladung",
+        "app_chat_panel_roles_permission_desc_6": "Kann eine Einladung zum Server erstellen",
+
+        "app_chat_emoji_selector_search_placeholder": "Suchen",
+        "app_chat_emoji_selector_smileys_people": "Smiley",
+        "app_chat_emoji_selector_animals_nature": "Tiere und Natur",
+        "app_chat_emoji_selector_food_drink": "Essen und Trinken",
+        "app_chat_emoji_selector_travel_places": "Reisen",
+        "app_chat_emoji_selector_activities": "Aktivitäten",
+        "app_chat_emoji_selector_objects": "Objekte",
+        "app_chat_emoji_selector_symbols": "Symbole",
+        "app_chat_emoji_selector_flags": "Flaggen",
+
+        "app_ui_embed_maybe_nsfw_hiden_title": "Der Inhalt KANN Inhalte enthalten, die für die Inhaltsfiltereinstellungen ungeeignet sind.",
+        "app_ui_embed_maybe_nsfw_hiden_button": "Trotzdem anzeigen ?",
+
+        "app_ui_embed_nsfw_hiden_title": "Inhalt ist aufgrund von Benutzerfiltereinstellungen ausgeblendet",
+        "app_ui_embed_nsfw_hiden_button": "Trotzdem anzeigen ?",
+
         "status_title": "Status",
         "status_desc_title": "Der Zustand unseres Systems",
         "status_desc_description": "Wenn etwas nicht stimmt, kannst du es immer hier herausfinden.",
@@ -811,7 +1039,19 @@
         "app_geo_day": "Tag",
         "app_geo_hour": "Stunde",
         "app_geo_minute": "Minuten",
-        "app_geo_second": "Sekunde"
+        "app_geo_second": "Sekunde",
+
+        "app_translate_button": "Ins %lang% übersetzen",
+
+        "group_event_date_today": "Heute",
+        "group_event_date_tomorrow": "Morgen",
+
+        "group_event_block_open": "Öffnen",
+
+        "types_general_avatar": "Benutzerbild",
+        "types_general_banner": "Banner",
+        "types_problem_in_user_data_title": "Es scheint, dass es ein Problem gibt",
+        "file_sizes": ["Bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"]
     },
     "pl": {
         "header_map": "Mapa",
@@ -906,6 +1146,8 @@
         "app_settings_geo_map_desc": "Po prostu określ swoją geolokalizację. Nie bój się, szyfrujemy Twoje dokładne dane i nieznacznie przesuwamy Twój znacznik o kilka metrów-kilometrów",
         "app_settings_block_snow_me_title": "Pokaż mój znacznik na mapie",
         "app_settings_block_snow_me_desc": "Możesz ukryć swój znacznik, jeśli chcesz i nikt nie będzie wiedział, gdzie jesteś",
+        "app_settings_block_show_real_geolocation_title": "Pokaż prawdziwą geolokalizację",
+        "app_settings_block_show_real_geolocation_desc": "Nie ukryjemy Twojej PRAWDZIWEJ geolokalizacji, pokażemy Ci, gdzie naprawdę jesteś",
         "app_settings_block_market_style_title": "Styl znacznika",
         "app_settings_block_market_style_desc": "Możesz wybrać kształt znacznika, który najbardziej Ci odpowiada. Tak, nie wszystkie zwierzęta są tutaj, lecz nasz team jest w trakcie tworzenia reszty",
         "app_settings_block_market_color_title": "Kolor markera",
@@ -936,6 +1178,41 @@
         "settings_app_theme_list_light": "Jasny motyw",
         "settings_app_theme_list_dark": "Ciemny motyw",
     
+        "app_chat_guild_popup_settings": "Ustawienia gildii",
+        "app_chat_guild_popup_invite": "Utwórz zaproszenie",
+        "app_chat_guild_popup_show_icon": "Pokaż ikonę",
+        "app_chat_guild_popup_show_banner": "Pokaż baner",
+        "app_chat_guild_popup_copy_id": "Kopiuj identyfikator",
+    
+        "app_chat_panel_roles_permission_title_1": "Wyświetl kanał / kategorię",
+        "app_chat_panel_roles_permission_desc_1": "Można zobaczyć kanał lub kategorię",
+        "app_chat_panel_roles_permission_title_2": "Wysyłaj wiadomości",
+        "app_chat_panel_roles_permission_desc_2": "Może wysyłać wiadomości",
+        "app_chat_panel_roles_permission_title_3": "Zmień serwer",
+        "app_chat_panel_roles_permission_desc_3": "Można zmienić nazwę, ikonę, Widok, baner",
+        "app_chat_panel_roles_permission_title_4": "Wyrzuć uczestnika",
+        "app_chat_panel_roles_permission_desc_4": "Może wyrzucić uczestnika z serwera",
+        "app_chat_panel_roles_permission_title_5": "Zablokuj uczestnika",
+        "app_chat_panel_roles_permission_desc_5": "Może zablokować uczestnika",
+        "app_chat_panel_roles_permission_title_6": "Utwórz zaproszenie",
+        "app_chat_panel_roles_permission_desc_6": "Można utworzyć zaproszenie na serwer",
+    
+        "app_chat_emoji_selector_search_placeholder": "Szukaj",
+        "app_chat_emoji_selector_smileys_people":"Buźka",
+        "app_chat_emoji_selector_animals_nature": "Zwierzęta i przyroda",
+        "app_chat_emoji_selector_food_drink": "Jedzenie i napoje",
+        "app_chat_emoji_selector_travel_places": "Podróże",
+        "app_chat_emoji_selector_activities": "Aktywności",
+        "app_chat_emoji_selector_objects": "Obiekty",
+        "app_chat_emoji_selector_symbols": "Symbole",
+        "app_chat_emoji_selector_flags": "Flagi",
+    
+        "app_ui_embed_maybe_nsfw_hiden_title": "Zawartość może zawierać zawartość nieodpowiednią do ustawień filtra treści",
+        "app_ui_embed_maybe_nsfw_hiden_button": "Pokaż mimo wszystko ?",
+    
+        "app_ui_embed_nsfw_hiden_title": "Zawartość jest ukryta z powodu ustawień filtra użytkownika",
+        "app_ui_embed_nsfw_hiden_button": "Pokaż mimo wszystko ?",
+    
         "status_title": "Status",
         "status_desc_title": "Stan naszego systemu",
         "status_desc_description": "Jeśli coś jest nie tak, zawsze możesz się o tym dowiedzieć tutaj",
@@ -961,7 +1238,19 @@
         "app_geo_day": "dzień",
         "app_geo_hour": "godzin",
         "app_geo_minute": "minutę",
-        "app_geo_second": "sekundę"
+        "app_geo_second": "sekundę",
+
+        "app_translate_button": "Przetłumacz na język %lang%",
+
+        "group_event_date_today": "Dzisiaj",
+        "group_event_date_tomorrow": "Jutro",
+
+        "group_event_block_open": "Otwórz",
+
+        "types_general_avatar": "avatar",
+        "types_general_banner": "baner",
+        "types_problem_in_user_data_title": "Wygląda na to, że jest problem",
+        "file_sizes": ["Bajty", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"]
     },
     "pt": {
         "header_map": "Mapa",
@@ -1058,6 +1347,8 @@
         "app_settings_geo_map_desc": "Basta especificar a sua geolocalização. Não tenha medo, nós criptografamos os seus dados exatos e mudamos ligeiramente o seu marcador por alguns metros-quilômetros",
         "app_settings_block_snow_me_title": "Mostrar o meu marcador no mapa",
         "app_settings_block_snow_me_desc": "Pode ocultar o seu marcador se quiser e ninguém saberá onde está",
+        "app_settings_block_show_real_geolocation_title": "Mostrar geolocalização real",
+        "app_settings_block_show_real_geolocation_desc": "Não vamos esconder a sua verdadeira geolocalização, vamos mostrar - lhe Onde está realmente",
         "app_settings_block_market_style_title": "Estilo Do Marcador",
         "app_settings_block_market_style_desc": "Pode escolher a forma do marcador que melhor lhe convier. Sim, nem todos os estilos estão aqui, depois desenhamos o resto.",
         "app_settings_block_market_color_title": "Cor do marcador",
@@ -1088,6 +1379,41 @@
         "settings_app_theme_list_light": "Tema claro",
         "settings_app_theme_list_dark": "Tema escuro",
 
+        "app_chat_guild_popup_settings": "Configurações da Guilda",
+        "app_chat_guild_popup_invite": "Criar convite",
+        "app_chat_guild_popup_show_icon": "Mostrar ícone",
+        "app_chat_guild_popup_show_banner": "Mostrar bandeira",
+        "app_chat_guild_popup_copy_id": "ID da cópia",
+
+        "app_chat_panel_roles_permission_title_1": "Ver canal/categoria",
+        "app_chat_panel_roles_permission_desc_1": "Pode ver canal ou categoria",
+        "app_chat_panel_roles_permission_title_2": "Enviar mensagens",
+        "app_chat_panel_roles_permission_desc_2": "Pode enviar mensagens",
+        "app_chat_panel_roles_permission_title_3": "Alterar o servidor",
+        "app_chat_panel_roles_permission_desc_3": "Pode alterar o nome, ícone, vista, faixa",
+        "app_chat_panel_roles_permission_title_4": "Expulsar o participante",
+        "app_chat_panel_roles_permission_desc_4": "Pode expulsar o participante do servidor",
+        "app_chat_panel_roles_permission_title_5": "Bloquear um participante",
+        "app_chat_panel_roles_permission_desc_5": "Pode bloquear um participante",
+        "app_chat_panel_roles_permission_title_6": "Criar um convite",
+        "app_chat_panel_roles_permission_desc_6": "Pode criar um convite para o servidor",
+
+        "app_chat_emoji_selector_search_placeholder": "Pesquisar",
+        "app_chat_emoji_selector_smileys_people": "Smiley",
+        "app_chat_emoji_selector_animals_nature": "Animais e natureza",
+        "app_chat_emoji_selector_food_drink": "Alimentos e bebidas",
+        "app_chat_emoji_selector_travel_places": "Viagens",
+        "app_chat_emoji_selector_activities": "Actividades",
+        "app_chat_emoji_selector_objects": "Objectos",
+        "app_chat_emoji_selector_symbols": "Símbolos",
+        "app_chat_emoji_selector_flags": "Sinalizadores",
+
+        "app_ui_embed_maybe_nsfw_hiden_title": "O conteúdo pode conter conteúdo inadequado segundo as definições do filtro de conteúdo",
+        "app_ui_embed_maybe_nsfw_hiden_button": "Mostrar mesmo assim?",
+
+        "app_ui_embed_nsfw_hiden_title": "O conteúdo está oculto devido às definições do filtro do utilizador",
+        "app_ui_embed_nsfw_hiden_button": "Mostrar mesmo assim?",
+
         "status_title": "Estado",
         "status_desc_title" :"O estado do nosso sistema",
         "status_desc_description": "Se algo está errado, você sempre pode descobrir sobre isso aqui",
@@ -1113,7 +1439,19 @@
         "app_geo_day": "dia",
         "app_geo_hour": "hora",
         "app_geo_minute": "minuto",
-        "app_geo_second": "segundo"
+        "app_geo_second": "segundo",
+
+        "app_translate_button": "Traduzir para %lang%",
+
+        "group_event_date_today": "hoje",
+        "group_event_date_tomorrow": "amanhã",
+
+        "group_event_block_open": "abrir",
+
+        "types_general_avatar":"avatar",
+        "types_general_banner":"banner",
+        "types_problem_in_user_data_title": "parece que há um problema",
+        "file_sizes": ["Bytes", "KB", "MB", "GB", "TB", "PB"," EB"," ZB","YB"]
     },
     "pt_br": {
         "header_map": "Mapa",
@@ -1211,7 +1549,7 @@
         "app_settings_block_snow_me_title": "Mostrar o meu marcador no mapa",
         "app_settings_block_snow_me_desc": "Você pode ocultar seu marcador se quiser e ninguém saberá onde você está",
         "app_settings_block_show_real_geolocation_title": "Mostrar geolocalização real",
-        "app_settings_block_show_real_geolocation_desc": "Não esconderemos sua geolocalização real, mas mostraremos onde você realmente está",
+        "app_settings_block_show_real_geolocation_desc": "não esconderemos sua geolocalização real, mostraremos onde você realmente está",
         "app_settings_block_market_style_title": "Estilo Do Marcador",
         "app_settings_block_market_style_desc": "você pode escolher a forma do marcador que mais lhe convier. Sim, nem todos os estilos estão aqui, todos desenhamos o resto",
         "app_settings_block_market_color_title": "Cor do marcador",
@@ -1267,6 +1605,18 @@
         "app_geo_day": "Dia",
         "app_geo_hour": "Hora",
         "app_geo_minute": "Minuto",
-        "app_geo_second": "Segundo"
+        "app_geo_second": "Segundo",
+
+        "app_translate_button": "Traduzir para %lang%",
+
+        "group_event_date_today": "hoje",
+        "group_event_date_tomorrow": "amanhã",
+
+        "group_event_block_open": "abrir",
+
+        "types_general_avatar": "avatar",
+        "types_general_banner": "banner",
+        "types_problem_in_user_data_title": "Parece que há um problema",
+        "file_sizes": ["Bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"]
     }
 }
