@@ -8,7 +8,8 @@ You can always find out the details of what exactly we are doing right now on th
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="16px"/> <b><a href="https://t.me/Kawalyr">@Kawalyr</a></b> for Portuguese-Brazilian translation</div>
 <div style="display: flex;"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="16px"/> <b><a href="https://t.me/Rmoreira15">@Rmoreira15</a></b> for Portuguese-Brazilian translation</div>
 
-<b><a href="https://t.me/JaceFEhnon">@JaceFEhnon</a></b> for help in finding bugs
+<b><a href="https://t.me/JaceFEhnon">@JaceFEhnon</a></b> for help in finding bugs<br/>
+<b><a href="https://vk.com/furrilisichka">Фурри Лесичка</a></b> за помощь в поиске бага
 
 ## lang.json & app.js
 This is a translation files. First you need to find out your language code in ISO 639-1. You can just press the `F12` key, paste
